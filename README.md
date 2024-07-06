@@ -17,3 +17,20 @@ This repository is guided by the book called hands-on-ML [Hands-on-Machine Learn
 ###
 
 Each project has its description written on README.
+
+## Usage
+Clone the repository to your local machine:
+
+```bash
+git clone
+```
+
+##
+Go to the project directory and start exploring the notebooks:
+
+```bash
+cd machine-learning-projects
+```
+
+## Note
+I have created the repository for Jupyter Notebook (). This repository will guide you on how to download Jupyter or how to create a Virtual Jupyter Notebook on your browser rather than downloading it.
