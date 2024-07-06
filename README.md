@@ -14,3 +14,6 @@ This repository is guided by the book called hands-on-ML [Hands-on-Machine Learn
   - Project 8: Dimensionality Reduction
   - Project 9: Unsupervised Learning Techniques
   - Project 10: Deep Learning with Keras
+###
+
+Each project has its description written on README.
