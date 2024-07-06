@@ -22,14 +22,14 @@ Each project has its description written on README.
 Clone the repository to your local machine:
 
 ```bash
-git clone
+git clone https://github.com/topollonaketsana/Hands-On-Machine-Learning-Projects.git
 ```
 
 ##
 Go to the project directory and start exploring the notebooks:
 
 ```bash
-cd machine-learning-projects
+cd Hands-On-Machine-Learning-Projects
 ```
 
 ## Note
