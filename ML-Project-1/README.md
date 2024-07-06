@@ -11,5 +11,5 @@ In this project, we will go through the entire process of a machine learning pro
 ##
 The accessible code is written on Housing.src and can be ran using the following line:
 ```bash
-housing.src.pynb
+housing_src.ipynb
 
