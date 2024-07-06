@@ -9,4 +9,4 @@ In this project, we will go through the entire process of a machine learning pro
 - Present the solution
 
 ##
-NOTE, some steps are not included in the above steps such as data cleaning, because, ive collected the clean data, if you want to include the data cleaning step, that is alright too.
+
