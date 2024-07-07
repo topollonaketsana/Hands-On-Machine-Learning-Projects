@@ -9,21 +9,18 @@ In this project, we will go through the entire process of a machine learning pro
 - Present the solution
 
 ##
-The accessible code is written on `Housing_src.ipynb` and can be ran using the following lines:
+The accessible code is written on `Housing_src.ipynb` and can be ran using the following bash lines:
 
 1. After cloning the main repository, you move to this sub-directory:
 ```bash
 cd ML-Project-1
 ```
 
-2. Initialize your Jupyter Notebook (see jupyterLab instructions on my other repository):
-```bash
-jupyter lab
-```   
 
-3. Run the code 
+2. Run the code 
 ```bash
-Housing_src.ipynb
+jupyter lab Housing_src.ipynb
+
 ```
 
 ##
