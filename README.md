@@ -16,7 +16,7 @@ This repository is guided by the book called hands-on-ML [Hands-on-Machine Learn
   - Project 10: Deep Learning with Keras
 ###
 
-Each project has its description written on README.
+Each project has its description written on Overview
 
 ## Usage
 Clone the repository to your local machine:
