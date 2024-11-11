@@ -3,15 +3,14 @@ This repository is guided by the book called hands-on-ML [Hands-on-Machine Learn
 # Let's Get Started
 # Introduction
   - Project 1: End-to-End Machine Learning Project
-  - Project 2: Training and Evaluating Models
-  - Project 3: Classification
-  - Project 4: Training Models
-  - Project 5: Support Vector Machines
-  - Project 6: Decision Trees
-  - Project 7: Ensemble Learning and Random Forests
-  - Project 8: Dimensionality Reduction
-  - Project 9: Unsupervised Learning Techniques
-  - Project 10: Deep Learning with Keras
+  - Project 2: Classification
+  - Project 3: Training Models
+  - Project 4: Support Vector Machines
+  - Project 5: Decision Trees
+  - Project 6: Ensemble Learning and Random Forests
+  - Project 7: Dimensionality Reduction
+  - Project 8: Unsupervised Learning Techniques
+  - Project 9: Deep Learning with Keras
 ###
 
 Each project has its description written on Overview
