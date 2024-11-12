@@ -5,4 +5,7 @@ images of digits handwritten by high school students and employees of the US Cen
 1. Each image is labeled with the digit it represents
 
 
+__________________________________________________________________________________________________________________________________________________
 
+#### Algorith
+We explore the Stochastic Gradient Descent (SGDClassifier) from sklearn, the model has to do wit randomness hence is called 'stochastic'
