@@ -30,4 +30,4 @@ cd Hands-On-Machine-Learning-Projects
 ```
 
 ## Note
-I have created the repository for Jupyter Notebook ([here](https://github.com/topollonaketsana/JupyterLab.git)). This repository will guide you on how to download JupyterLab or how to create a Virtual Jupyter Notebook on your browser rather than downloading it.
+I have created the repository for Jupyter Lab ([here](https://github.com/topollonaketsana/JupyterLab.git)). This repository will guide you on how to download JupyterLab or how to create a Virtual Jupyter Notebook on your browser rather than downloading it.
